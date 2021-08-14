@@ -1,4 +1,4 @@
-# BouncingBalls
+# DodgeBalls
 
 The objective of the game is to shoot as many balls as possible before they touch you.
 
