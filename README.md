@@ -1,5 +1,7 @@
 # DodgeBalls
 
+Play the game at: https://daneelsan.github.io/DodgeBalls/
+
 The objective of the game is to shoot as many balls as possible before they touch you.
 
 The engine of the game is written in pure Javascript, using full advange of HTML canvas.
